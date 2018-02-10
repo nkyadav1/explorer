@@ -1,3 +1,4 @@
 # explorer
 
-Run Command npm install
+Run Command 
+  npm install
